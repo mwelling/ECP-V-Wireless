@@ -648,7 +648,7 @@
         "uuid": "eae84144-7f2d-46b9-a4e0-986cae4bd3c1"
       }
     ],
-    "used_designators": "J2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -661,12 +661,12 @@
       "ESP32-S3"
     ],
     [
-      "3fb1f0da-0613-4079-8d95-0578f1c2c187",
-      "MISC-IO"
-    ],
-    [
       "7b6b6a95-d766-4eab-b6e7-1703518aae76",
       "POWER"
+    ],
+    [
+      "3fb1f0da-0613-4079-8d95-0578f1c2c187",
+      "MISC-IO"
     ]
   ],
   "text_variables": {},

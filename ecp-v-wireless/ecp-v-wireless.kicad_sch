@@ -19,7 +19,7 @@
 	)
 	(text_box "ESP32-S3 MCU"
 		(exclude_from_sim no)
-		(at 130.81 68.58 0)
+		(at 109.22 68.58 0)
 		(size 22.86 13.97)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -38,7 +38,7 @@
 	)
 	(text_box "1.1V\nBUCK"
 		(exclude_from_sim no)
-		(at 138.43 116.84 0)
+		(at 116.84 116.84 0)
 		(size 8.89 5.9929)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -57,7 +57,7 @@
 	)
 	(text_box "USB-C"
 		(exclude_from_sim no)
-		(at 113.03 68.58 0)
+		(at 91.44 68.58 0)
 		(size 8.89 5.08)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -76,7 +76,7 @@
 	)
 	(text_box "LiPO\nCONN"
 		(exclude_from_sim no)
-		(at 113.03 99.4171 0)
+		(at 91.44 99.4171 0)
 		(size 8.89 5.9929)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -95,7 +95,7 @@
 	)
 	(text_box "3.3V\nBUCK"
 		(exclude_from_sim no)
-		(at 138.43 107.95 0)
+		(at 116.84 107.95 0)
 		(size 8.89 5.9929)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -112,9 +112,47 @@
 		)
 		(uuid "2198b374-cf0c-446f-9c34-fe3d2b540ef3")
 	)
+	(text_box "RGB LED"
+		(exclude_from_sim no)
+		(at 184.15 68.58 0)
+		(size 8.89 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "464a222d-b62a-4355-a18a-9b7ac7ab0692")
+	)
+	(text_box "PMOD2"
+		(exclude_from_sim no)
+		(at 195.58 76.2 0)
+		(size 8.89 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "672f52a4-26f5-4f0a-b1c5-8afc573db2c8")
+	)
 	(text_box "2.5V\nLDO"
 		(exclude_from_sim no)
-		(at 138.43 124.8171 0)
+		(at 116.84 124.8171 0)
 		(size 8.89 5.9929)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -131,9 +169,28 @@
 		)
 		(uuid "777d9ae7-e4b3-4fb2-bfe9-c64deb8b6892")
 	)
+	(text_box "PMOD1"
+		(exclude_from_sim no)
+		(at 195.58 68.58 0)
+		(size 8.89 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c865558-6507-4ba1-8168-0c4953f169f3")
+	)
 	(text_box "ECP5 FPGA\nLFE5U-85F-6BG381x"
 		(exclude_from_sim no)
-		(at 161.29 68.58 0)
+		(at 138.43 81.28 0)
 		(size 22.86 13.97)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -150,9 +207,28 @@
 		)
 		(uuid "a69fb0ab-755e-40be-a3dc-8660325b898f")
 	)
+	(text_box "PMOD3"
+		(exclude_from_sim no)
+		(at 195.58 83.82 0)
+		(size 8.89 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b1c9f82a-336e-4413-b72c-7c93d548ab50")
+	)
 	(text_box "LIPO BATTERY MGMT"
 		(exclude_from_sim no)
-		(at 130.81 91.44 0)
+		(at 109.22 91.44 0)
 		(size 22.86 13.97)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -171,7 +247,7 @@
 	)
 	(polyline
 		(pts
-			(xy 121.92 71.12) (xy 125.73 71.12)
+			(xy 100.33 71.12) (xy 104.14 71.12)
 		)
 		(stroke
 			(width 0)
@@ -181,7 +257,7 @@
 	)
 	(polyline
 		(pts
-			(xy 125.73 92.71) (xy 125.73 76.2)
+			(xy 104.14 92.71) (xy 104.14 76.2)
 		)
 		(stroke
 			(width 0)
@@ -191,7 +267,7 @@
 	)
 	(polyline
 		(pts
-			(xy 130.81 92.71) (xy 125.73 92.71)
+			(xy 109.22 92.71) (xy 104.14 92.71)
 		)
 		(stroke
 			(width 0)
@@ -201,7 +277,7 @@
 	)
 	(polyline
 		(pts
-			(xy 121.92 102.87) (xy 130.81 102.87)
+			(xy 100.33 102.87) (xy 109.22 102.87)
 		)
 		(stroke
 			(width 0)
@@ -211,7 +287,7 @@
 	)
 	(polyline
 		(pts
-			(xy 125.73 71.12) (xy 125.73 76.2)
+			(xy 104.14 71.12) (xy 104.14 76.2)
 		)
 		(stroke
 			(width 0)
@@ -221,7 +297,7 @@
 	)
 	(polyline
 		(pts
-			(xy 125.73 76.2) (xy 130.81 76.2)
+			(xy 104.14 76.2) (xy 109.22 76.2)
 		)
 		(stroke
 			(width 0)
@@ -230,7 +306,7 @@
 		(uuid "f7f51a64-ea36-4280-b371-25c0501c89ac")
 	)
 	(sheet
-		(at 102.87 66.04)
+		(at 81.28 66.04)
 		(size 55.88 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -245,7 +321,7 @@
 		)
 		(uuid "1e5d9af7-6ddd-4fbd-8f9c-cb8646a284ca")
 		(property "Sheetname" "ESP32-S3"
-			(at 102.87 65.3284 0)
+			(at 81.28 65.3284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -256,7 +332,7 @@
 			)
 		)
 		(property "Sheetfile" "ESP32-S3.kicad_sch"
-			(at 132.842 63.754 0)
+			(at 111.252 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -275,8 +351,8 @@
 		)
 	)
 	(sheet
-		(at 160.02 66.04)
-		(size 48.26 67.31)
+		(at 162.56 66.04)
+		(size 45.72 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -290,7 +366,7 @@
 		)
 		(uuid "3fb1f0da-0613-4079-8d95-0578f1c2c187")
 		(property "Sheetname" "MISC-IO"
-			(at 160.02 65.3284 0)
+			(at 162.56 65.3284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -301,7 +377,7 @@
 			)
 		)
 		(property "Sheetfile" "MISC-IO.kicad_sch"
-			(at 184.15 64.262 0)
+			(at 184.912 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -320,7 +396,7 @@
 		)
 	)
 	(sheet
-		(at 102.87 90.17)
+		(at 81.28 90.17)
 		(size 55.88 43.18)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -335,7 +411,7 @@
 		)
 		(uuid "7b6b6a95-d766-4eab-b6e7-1703518aae76")
 		(property "Sheetname" "POWER"
-			(at 102.87 89.4584 0)
+			(at 81.28 89.4584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -346,7 +422,7 @@
 			)
 		)
 		(property "Sheetfile" "POWER.kicad_sch"
-			(at 136.144 88.138 0)
+			(at 114.554 88.138 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -359,7 +435,7 @@
 		(instances
 			(project "ecp-v-wireless"
 				(path "/eae84144-7f2d-46b9-a4e0-986cae4bd3c1"
-					(page "5")
+					(page "3")
 				)
 			)
 		)
