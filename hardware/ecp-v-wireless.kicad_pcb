@@ -6171,7 +6171,7 @@
 			(size 0.4 0.4)
 			(property pad_prop_bga)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U2I-TDI-PadR5)")
+			(net "/ESP32-S3/TDI")
 			(pinfunction "TDI_R5")
 			(pintype "input")
 			(uuid "0ad3916d-cef1-4631-af9b-c0253dd0e2fa")
@@ -6271,7 +6271,7 @@
 			(size 0.4 0.4)
 			(property pad_prop_bga)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U2I-TCK-PadT5)")
+			(net "/ESP32-S3/TCK")
 			(pinfunction "TCK_T5")
 			(pintype "input")
 			(uuid "e0617887-d4ae-4861-af58-57963f631f06")
@@ -6471,7 +6471,7 @@
 			(size 0.4 0.4)
 			(property pad_prop_bga)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U2I-TMS-PadU5)")
+			(net "/ESP32-S3/TMS")
 			(pinfunction "TMS_U5")
 			(pintype "input")
 			(uuid "e6467579-0fee-4d07-9ba6-dc8e711e3aeb")
@@ -6661,7 +6661,7 @@
 			(size 0.4 0.4)
 			(property pad_prop_bga)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U2I-TDO-PadV4)")
+			(net "/ESP32-S3/TDO")
 			(pinfunction "TDO_V4")
 			(pintype "output")
 			(uuid "7f48058d-e2fa-4492-b476-738535ffb4cd")
@@ -12280,7 +12280,7 @@
 		(property "Reference" "PMOD1"
 			(at -1.27 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "92d3dffa-85a1-4d2b-891c-96477995222a")
+			(uuid "428d21a3-2e89-44be-9ff0-d41d43ae288c")
 			(effects
 				(font
 					(size 1 1)
@@ -12291,7 +12291,7 @@
 		(property "Value" "CONN_02X06"
 			(at -1.27 15.47 0)
 			(layer "F.Fab")
-			(uuid "ab9351bc-e4b5-44ec-951c-540019859658")
+			(uuid "6f4d2f98-8890-4065-9e01-aeaf7e823f5a")
 			(effects
 				(font
 					(size 1 1)
@@ -12303,7 +12303,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b2fc349-85ed-464f-b164-dcd84eed27ce")
+			(uuid "d294ea45-2379-430d-962d-a6ea431e6064")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12314,7 +12314,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8ad4a79-0301-40e7-a084-0b7ed2fd2e3e")
+			(uuid "ac51aae2-2b91-4dac-bc68-c507a3fd1538")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13084,7 +13084,7 @@
 		(property "Reference" "PMOD3"
 			(at -1.27 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "37b9fc8e-1a93-4c18-b59e-e2d23fa2c2e0")
+			(uuid "64764170-84da-45e2-bbd2-9f168ba3ef02")
 			(effects
 				(font
 					(size 1 1)
@@ -13095,7 +13095,7 @@
 		(property "Value" "CONN_02X06"
 			(at -1.27 15.47 0)
 			(layer "F.Fab")
-			(uuid "57d4fa08-ffe2-42fa-95f6-6cdb0a6a2893")
+			(uuid "bd2d6e1a-44c4-42c9-b8ed-7151837c3a4d")
 			(effects
 				(font
 					(size 1 1)
@@ -13107,7 +13107,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e1398c3b-d489-4333-84e8-b23948e72215")
+			(uuid "c6631110-e906-42db-b988-76982e491f37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13118,7 +13118,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21c5a001-f75d-45d7-9c53-8c7cd275207a")
+			(uuid "7665a77c-2864-4b2f-9305-44a84294fe54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13997,7 +13997,7 @@
 		(property "Reference" "PMOD2"
 			(at -1.27 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "dd01754b-7306-4881-a36b-887c90de4af5")
+			(uuid "84b4b121-1853-46fb-9e6f-5078fd7f3aa0")
 			(effects
 				(font
 					(size 1 1)
@@ -14008,7 +14008,7 @@
 		(property "Value" "CONN_02X06"
 			(at -1.27 15.47 0)
 			(layer "F.Fab")
-			(uuid "4dbbc3fe-b2b5-4dea-9030-272f236767d5")
+			(uuid "23dbbe31-c427-4788-bc9c-c4c469c05b94")
 			(effects
 				(font
 					(size 1 1)
@@ -14020,7 +14020,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0c15a92-7aa3-4a4d-8315-6579d3a202ca")
+			(uuid "dd0ffc8b-092f-4eda-94d6-cd2a383c757d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14031,7 +14031,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "012b2e9b-2566-4f01-934f-5bf38a21deb3")
+			(uuid "42fbc9de-7958-4ff9-9c1d-a14adeb84abc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17908,7 +17908,7 @@
 			(at -7 0 90)
 			(size 0.8 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U1-IO1-Pad5)")
+			(net "/ESP32-S3/TCK")
 			(pinfunction "IO1_5")
 			(pintype "bidirectional")
 			(uuid "32183477-e9f9-4672-8ec2-10d3455e0578")
@@ -17917,7 +17917,7 @@
 			(at -7 0.85 90)
 			(size 0.8 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U1-IO2-Pad6)")
+			(net "/ESP32-S3/TMS")
 			(pinfunction "IO2_6")
 			(pintype "bidirectional")
 			(uuid "168a3992-958b-4d73-a979-ff6fbbce3b85")
@@ -17926,7 +17926,7 @@
 			(at -7 1.7 90)
 			(size 0.8 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U1-IO3-Pad7)")
+			(net "/ESP32-S3/TDI")
 			(pinfunction "IO3_7")
 			(pintype "bidirectional")
 			(uuid "bfe02f11-e68c-42cd-b135-8e51514a4411")
@@ -17935,7 +17935,7 @@
 			(at -7 2.55 90)
 			(size 0.8 0.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "unconnected-(U1-IO4-Pad8)")
+			(net "/ESP32-S3/TDO")
 			(pinfunction "IO4_8")
 			(pintype "bidirectional")
 			(uuid "f7da33fd-679b-40ae-9f50-5c782c09b59f")

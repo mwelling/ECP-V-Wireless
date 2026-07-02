@@ -10930,7 +10930,7 @@
 	)
 	(text "POWER SUPPLIES COPIED FROM ICEBREAKER++/ICECRUSHER DESIGN"
 		(exclude_from_sim no)
-		(at 64.77 188.468 0)
+		(at 64.77 180.848 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11170,7 +11170,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 171.45) (xy 73.66 176.53)
+			(xy 73.66 163.83) (xy 73.66 166.37)
 		)
 		(stroke
 			(width 0)
@@ -11460,7 +11460,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 171.45) (xy 58.42 176.53)
+			(xy 58.42 163.83) (xy 58.42 166.37)
 		)
 		(stroke
 			(width 0)
@@ -11570,7 +11570,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 161.29) (xy 50.8 166.37)
+			(xy 50.8 156.21) (xy 50.8 158.75)
 		)
 		(stroke
 			(width 0)
@@ -11640,7 +11640,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 171.45) (xy 66.04 176.53)
+			(xy 66.04 163.83) (xy 66.04 166.37)
 		)
 		(stroke
 			(width 0)
@@ -11800,7 +11800,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 161.29) (xy 66.04 166.37)
+			(xy 66.04 156.21) (xy 66.04 158.75)
 		)
 		(stroke
 			(width 0)
@@ -11870,7 +11870,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 161.29) (xy 73.66 166.37)
+			(xy 73.66 156.21) (xy 73.66 158.75)
 		)
 		(stroke
 			(width 0)
@@ -11960,7 +11960,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 171.45) (xy 50.8 176.53)
+			(xy 50.8 163.83) (xy 50.8 166.37)
 		)
 		(stroke
 			(width 0)
@@ -12080,7 +12080,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 161.29) (xy 58.42 166.37)
+			(xy 58.42 156.21) (xy 58.42 158.75)
 		)
 		(stroke
 			(width 0)
@@ -12964,7 +12964,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 73.66 176.53 0)
+		(at 73.66 166.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12974,7 +12974,7 @@
 		(dnp no)
 		(uuid "1bd46817-803c-46ad-a4bb-835e3e442037")
 		(property "Reference" "#PWR028"
-			(at 73.66 182.88 0)
+			(at 73.66 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12985,7 +12985,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 73.66 180.34 0)
+			(at 73.66 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12995,7 +12995,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 176.53 0)
+			(at 73.66 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13005,7 +13005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 176.53 0)
+			(at 73.66 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13015,7 +13015,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 176.53 0)
+			(at 73.66 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14750,7 +14750,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 66.04 168.91 0)
+		(at 66.04 161.29 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14761,7 +14761,7 @@
 		(dnp no)
 		(uuid "5c3c6b62-70be-4727-bc34-6f70b23569f2")
 		(property "Reference" "C9"
-			(at 66.421 166.497 0)
+			(at 66.421 158.877 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14772,7 +14772,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 66.421 171.323 0)
+			(at 66.421 163.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14783,7 +14783,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 66.04 168.91 0)
+			(at 66.04 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14794,7 +14794,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 168.91 0)
+			(at 66.04 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14805,7 +14805,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 66.04 168.91 0)
+			(at 66.04 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14816,7 +14816,7 @@
 			)
 		)
 		(property "Mfg" "Yageo"
-			(at 124.46 302.26 0)
+			(at 124.46 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14827,7 +14827,7 @@
 			)
 		)
 		(property "PN" "CC0402KRX5R6BB105"
-			(at 124.46 302.26 0)
+			(at 124.46 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15264,7 +15264,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 58.42 168.91 0)
+		(at 58.42 161.29 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -15275,7 +15275,7 @@
 		(dnp no)
 		(uuid "738bc447-afcc-40a6-aa2e-c61620e3b20c")
 		(property "Reference" "C7"
-			(at 58.801 166.497 0)
+			(at 58.801 158.877 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15286,7 +15286,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.801 171.323 0)
+			(at 58.801 163.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15297,7 +15297,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 58.42 168.91 0)
+			(at 58.42 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15308,7 +15308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 168.91 0)
+			(at 58.42 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15319,7 +15319,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 58.42 168.91 0)
+			(at 58.42 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15330,7 +15330,7 @@
 			)
 		)
 		(property "Mfg" "Yageo"
-			(at 116.84 302.26 0)
+			(at 116.84 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15341,7 +15341,7 @@
 			)
 		)
 		(property "PN" "CC0402KRX5R6BB105"
-			(at 116.84 302.26 0)
+			(at 116.84 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15544,7 +15544,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 66.04 176.53 0)
+		(at 66.04 166.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15554,7 +15554,7 @@
 		(dnp no)
 		(uuid "81f32f59-e375-432b-8ced-35917f440bb6")
 		(property "Reference" "#PWR023"
-			(at 66.04 182.88 0)
+			(at 66.04 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15565,7 +15565,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 180.34 0)
+			(at 66.04 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15575,7 +15575,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 176.53 0)
+			(at 66.04 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15585,7 +15585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 176.53 0)
+			(at 66.04 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15595,7 +15595,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 176.53 0)
+			(at 66.04 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17309,7 +17309,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 50.8 168.91 0)
+		(at 50.8 161.29 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -17320,7 +17320,7 @@
 		(dnp no)
 		(uuid "93c6b4e1-7b44-497e-88c7-88b55b15b074")
 		(property "Reference" "C6"
-			(at 51.181 166.497 0)
+			(at 51.181 158.877 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17331,7 +17331,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 51.181 171.323 0)
+			(at 51.181 163.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17342,7 +17342,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 50.8 168.91 0)
+			(at 50.8 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17353,7 +17353,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 168.91 0)
+			(at 50.8 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17364,7 +17364,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 50.8 168.91 0)
+			(at 50.8 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17375,7 +17375,7 @@
 			)
 		)
 		(property "Mfg" "Yageo"
-			(at 109.22 302.26 0)
+			(at 109.22 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17386,7 +17386,7 @@
 			)
 		)
 		(property "PN" "CC0402KRX5R6BB105"
-			(at 109.22 302.26 0)
+			(at 109.22 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17673,7 +17673,7 @@
 	)
 	(symbol
 		(lib_id "gkl_power:+1V1")
-		(at 58.42 161.29 0)
+		(at 58.42 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17683,7 +17683,7 @@
 		(dnp no)
 		(uuid "acd40fe1-e382-4dfa-a72e-4ff4f64c83c4")
 		(property "Reference" "#PWR019"
-			(at 58.42 165.1 0)
+			(at 58.42 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17694,7 +17694,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 58.4962 157.4546 0)
+			(at 58.4962 152.3746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17704,7 +17704,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 161.29 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17715,7 +17715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 161.29 0)
+			(at 58.42 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17726,7 +17726,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 161.29 0)
+			(at 58.42 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18044,7 +18044,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 73.66 168.91 0)
+		(at 73.66 161.29 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -18055,7 +18055,7 @@
 		(dnp no)
 		(uuid "b516a221-c97f-46e5-a91a-234e1ae6ccb2")
 		(property "Reference" "C13"
-			(at 74.041 166.497 0)
+			(at 74.041 158.877 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18066,7 +18066,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 74.041 171.323 0)
+			(at 74.041 163.703 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18077,7 +18077,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 73.66 168.91 0)
+			(at 73.66 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18088,7 +18088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 168.91 0)
+			(at 73.66 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18099,7 +18099,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 73.66 168.91 0)
+			(at 73.66 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18110,7 +18110,7 @@
 			)
 		)
 		(property "Mfg" "Yageo"
-			(at 132.08 302.26 0)
+			(at 132.08 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18121,7 +18121,7 @@
 			)
 		)
 		(property "PN" "CC0402KRX5R6BB105"
-			(at 132.08 302.26 0)
+			(at 132.08 294.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18252,7 +18252,7 @@
 	)
 	(symbol
 		(lib_id "gkl_power:+1V1")
-		(at 50.8 161.29 0)
+		(at 50.8 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18262,7 +18262,7 @@
 		(dnp no)
 		(uuid "c2e1b0ef-52be-460c-a487-c33440bb4581")
 		(property "Reference" "#PWR017"
-			(at 50.8 165.1 0)
+			(at 50.8 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18273,7 +18273,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 50.8762 157.4546 0)
+			(at 50.8762 152.3746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18283,7 +18283,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 161.29 0)
+			(at 50.8 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18294,7 +18294,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 161.29 0)
+			(at 50.8 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18305,7 +18305,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 161.29 0)
+			(at 50.8 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18792,7 +18792,7 @@
 	)
 	(symbol
 		(lib_id "gkl_power:+1V1")
-		(at 73.66 161.29 0)
+		(at 73.66 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18802,7 +18802,7 @@
 		(dnp no)
 		(uuid "d83fcf8b-8990-4a09-b32a-3e73562fd4b8")
 		(property "Reference" "#PWR027"
-			(at 73.66 165.1 0)
+			(at 73.66 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18813,7 +18813,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 73.7362 157.4546 0)
+			(at 73.7362 152.3746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18823,7 +18823,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 161.29 0)
+			(at 73.66 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18834,7 +18834,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 161.29 0)
+			(at 73.66 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18845,7 +18845,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 161.29 0)
+			(at 73.66 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19130,7 +19130,7 @@
 	)
 	(symbol
 		(lib_id "gkl_power:+1V1")
-		(at 66.04 161.29 0)
+		(at 66.04 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19140,7 +19140,7 @@
 		(dnp no)
 		(uuid "e16d61c1-a096-49ae-b280-2c352200dc95")
 		(property "Reference" "#PWR022"
-			(at 66.04 165.1 0)
+			(at 66.04 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19151,7 +19151,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 66.1162 157.4546 0)
+			(at 66.1162 152.3746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19161,7 +19161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 161.29 0)
+			(at 66.04 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19172,7 +19172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 161.29 0)
+			(at 66.04 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19183,7 +19183,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 161.29 0)
+			(at 66.04 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19280,7 +19280,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 58.42 176.53 0)
+		(at 58.42 166.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19290,7 +19290,7 @@
 		(dnp no)
 		(uuid "e7aea731-6e3e-441d-a851-8ef16c64a97b")
 		(property "Reference" "#PWR020"
-			(at 58.42 182.88 0)
+			(at 58.42 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19301,7 +19301,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 180.34 0)
+			(at 58.42 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19311,7 +19311,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 176.53 0)
+			(at 58.42 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19321,7 +19321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 176.53 0)
+			(at 58.42 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19331,7 +19331,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 176.53 0)
+			(at 58.42 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19682,7 +19682,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 50.8 176.53 0)
+		(at 50.8 166.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19692,7 +19692,7 @@
 		(dnp no)
 		(uuid "fbf9d7e9-254d-47c3-b849-d1465e7407c8")
 		(property "Reference" "#PWR018"
-			(at 50.8 182.88 0)
+			(at 50.8 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19703,7 +19703,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 180.34 0)
+			(at 50.8 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19713,7 +19713,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 176.53 0)
+			(at 50.8 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19723,7 +19723,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 176.53 0)
+			(at 50.8 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19733,7 +19733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 176.53 0)
+			(at 50.8 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
